@@ -77,5 +77,4 @@
         android:text="처음으로"
         android:textSize="15sp"
         android:visibility="visible" />
-
 </LinearLayout>
