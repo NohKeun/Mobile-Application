@@ -88,21 +88,21 @@ public class MainActivity extends Activity implements OnClickListener {
         Gg1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                I.setImageResource(R.drawable.A4_3);
+                I.setImageResource(R.drawable.a4_3);
             }
         });
 
         Gg2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                I.setImageResource(R.drawable.A4_4);
+                I.setImageResource(R.drawable.a4_4);
             }
         });
 
         Gg3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                I.setImageResource(R.drawable.A5_0);
+                I.setImageResource(R.drawable.a5_0);
             }
         });
     }
