@@ -12,7 +12,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Gallery;
 
-import nkpark.myapplication.R;
+
+
 
 public class MainActivity extends Activity {
     Button button0;
